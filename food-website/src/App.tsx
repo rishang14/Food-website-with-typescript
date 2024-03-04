@@ -1,8 +1,11 @@
+import CustomRoutes from "./Components/CustomRoute"
 
 
 const App = () => {
   return (
-    <div>App</div>
+    <> 
+    <CustomRoutes/>
+    </>
   )
 }
 
